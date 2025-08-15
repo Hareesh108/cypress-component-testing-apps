@@ -19,7 +19,7 @@
     "@angular/platform-browser": "^20.1.6",
     "@angular/platform-browser-dynamic": "^20.1.6",
     "@angular/router": "^20.1.6",
-    "msw": "^2.3.1",
+    "msw": "^2.10.5",
     "rxjs": "~7.8.2",
     "tslib": "^2.8.1",
     "zone.js": "~0.15.1"
@@ -30,7 +30,7 @@
     "@angular/compiler-cli": "^20.1.6",
     "@tailwindcss/postcss": "^4.1.11",
     "@types/jasmine": "~5.1.0",
-    "cypress": "^14.0.0",
+    "cypress": "https://cdn.cypress.io/beta/npm/15.0.0/linux-x64/develop-c8606c21ae148459fe54d74e040fd2ec5bdc3d08/cypress.tgz",
     "jasmine-core": "~5.8.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
@@ -40,5 +40,10 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.11",
     "typescript": "~5.8.3"
+  },
+  "msw": {
+    "workerDirectory": [
+      "public"
+    ]
   }
 }
