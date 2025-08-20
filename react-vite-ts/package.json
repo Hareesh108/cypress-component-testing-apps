@@ -18,7 +18,7 @@
     "@types/react": "^19.1.10",
     "@types/react-dom": "^19.1.7",
     "@vitejs/plugin-react": "^5.0.0",
-    "cypress": "https://cdn.cypress.io/beta/npm/15.0.0/linux-x64/develop-c8606c21ae148459fe54d74e040fd2ec5bdc3d08/cypress.tgz",
+    "cypress": "^15.0.0",
     "tailwindcss": "^4.1.11",
     "typescript": "^5.8.3",
     "vite": "^7.1.2"

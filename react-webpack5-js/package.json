@@ -18,7 +18,7 @@
     "autoprefixer": "^10.4.20",
     "babel-loader": "^9.2.1",
     "css-loader": "^7.1.2",
-    "cypress": "https://cdn.cypress.io/beta/npm/15.0.0/linux-x64/develop-c8606c21ae148459fe54d74e040fd2ec5bdc3d08/cypress.tgz",
+    "cypress": "^15.0.0",
     "html-webpack-plugin": "^5.6.3",
     "postcss": "^8.4.49",
     "postcss-loader": "^8.1.1",

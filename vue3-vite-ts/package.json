@@ -15,7 +15,7 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.11",
     "@vitejs/plugin-vue": "^6.0.1",
-    "cypress": "https://cdn.cypress.io/beta/npm/15.0.0/linux-x64/develop-c8606c21ae148459fe54d74e040fd2ec5bdc3d08/cypress.tgz",
+    "cypress": "^15.0.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.11",
     "typescript": "^5.8.3",
